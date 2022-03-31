@@ -1,0 +1,21 @@
+body{
+    color: black;
+}
+
+
+/* navbar */
+.navbar{
+    background-color: aqua;
+}
+.nav-item{
+    text-align: center;
+}
+
+/* menu */
+.menu-title{
+    text-align: center;
+}
+.menu-col{
+    background-color: gray;
+    margin: 2rem 0 2rem 0;
+}
